@@ -1,4 +1,4 @@
-const URL  = 'http://api.giphy.com/v1/gifs/search'
+const URL  = 'https://api.giphy.com/v1/gifs/search'
 const API_KEY = 'MhAodEJIJxQMxW9XqxKjyXfNYdLoOIym';
 let searchHistory = {}
 
